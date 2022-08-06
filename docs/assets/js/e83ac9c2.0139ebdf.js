@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxrmod_manual=self.webpackChunkxrmod_manual||[]).push([[9954],{36951:e=>{e.exports=JSON.parse('{"permalink":"/xrmod-engine-doc/changelog","page":1,"postsPerPage":20,"totalPages":1,"totalCount":1,"blogDescription":"Keep yourself up-to-date about new features in every release","blogTitle":"XRMOD changelog"}')}}]);

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>XRMOD changelog</title>
-        <link>https://docs.phantomsxr.com/xrmod-engine-doc/zh-Hans/changelog</link>
+        <link>https://docs.phantomsxr.com/zh-Hans/changelog</link>
         <description>Keep yourself up-to-date about new features in every release</description>
         <lastBuildDate>Thu, 04 Aug 2022 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,7 +11,7 @@
         <copyright>Copyright © 2022 PhantomsXR Co,Ltd.</copyright>
         <item>
             <title><![CDATA[2.0.0-pre.1]]></title>
-            <link>https://docs.phantomsxr.com/xrmod-engine-doc/zh-Hans/changelog/2.0.0-pre.1</link>
+            <link>https://docs.phantomsxr.com/zh-Hans/changelog/2.0.0-pre.1</link>
             <guid>/2.0.0-pre.1</guid>
             <pubDate>Thu, 04 Aug 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[🐞 Fixed]]></description>
