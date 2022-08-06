@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "XRMOD changelog",
-    "home_page_url": "https://docs.phantomsxr.com/changelog",
+    "home_page_url": "https://docs.phantomsxr.com/xrmod-engine-doc/changelog",
     "description": "Keep yourself up-to-date about new features in every release",
     "items": [
         {
             "id": "/2.0.0-pre.1",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"-fixed\">🐞 Fixed<a class=\"hash-link\" href=\"#-fixed\" title=\"Direct link to heading\">​</a></h2><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"️-added\">✴️ Added<a class=\"hash-link\" href=\"#️-added\" title=\"Direct link to heading\">​</a></h2><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"️-changed\">✍️ Changed<a class=\"hash-link\" href=\"#️-changed\" title=\"Direct link to heading\">​</a></h2><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"-deprecated\">🚫 Deprecated<a class=\"hash-link\" href=\"#-deprecated\" title=\"Direct link to heading\">​</a></h2><ul><li>Deprecated <code>SetFocusAlgorithmState</code></li></ul><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"-removed\">🚮 Removed<a class=\"hash-link\" href=\"#-removed\" title=\"Direct link to heading\">​</a></h2><ul><li>Remove Barracuda support</li></ul>",
-            "url": "https://docs.phantomsxr.com/changelog/2.0.0-pre.1",
+            "url": "https://docs.phantomsxr.com/xrmod-engine-doc/changelog/2.0.0-pre.1",
             "title": "2.0.0-pre.1",
             "summary": "🐞 Fixed",
             "date_modified": "2022-08-04T20:00:00.000Z",
