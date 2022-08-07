@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxrmod_manual=self.webpackChunkxrmod_manual||[]).push([[9403],{56923:e=>{e.exports=JSON.parse('{"title":"Changelog","items":[{"title":"2.0.0-pre.1","permalink":"/zh-Hans/changelog/2.0.0-pre.1"}]}')}}]);

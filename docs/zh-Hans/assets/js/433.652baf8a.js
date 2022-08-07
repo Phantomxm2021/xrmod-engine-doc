@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxrmod_manual=self.webpackChunkxrmod_manual||[]).push([[433],{70433:(s,t,l)=>{l.r(t),l.d(t,{dyte_stage:()=>e});var a=l(42619);const e=class{constructor(s){(0,a.r)(this,s)}render(){return(0,a.h)(a.H,null,(0,a.h)("slot",null))}};e.style=":host{display:block;position:relative;font-family:var(--dyte-font-family, sans-serif)}"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxrmod_manual=self.webpackChunkxrmod_manual||[]).push([[2746],{83159:(a,e,n)=>{n.r(e),n.d(e,{default:()=>r});var t=n(67294),h=n(76775);function r(){const a=(0,h.k6)();return t.createElement(h.l_,{to:{pathname:"/api",search:"v=v2",hash:a.location.hash}})}}}]);
