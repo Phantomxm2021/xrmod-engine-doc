@@ -4,7 +4,7 @@
   <ShortName>XRMOD Engine Manual</ShortName>
   <Description>Search XRMOD Engine Manual</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.phantomsxr.com/img/favicon.ico</Image>
+  <Image width="16" height="16" type="image/x-icon">https://docs.phantomsxr.com/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://docs.phantomsxr.com/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.phantomsxr.com/opensearch.xml" />
   <moz:SearchForm>https://docs.phantomsxr.com/</moz:SearchForm>
